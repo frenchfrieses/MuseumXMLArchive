@@ -4,7 +4,7 @@
 
 - [Dokumentacja API](/Documentation/DokumentacjaAPI.md)
 - [Dokumentacja testów jednostkowych](/Documentation/DokumentacjaTestówJednostkowych.md)
-- [Dokumentacja bazy danych](/Documentation/DocumentacjaBazyDanych.md)
+- [Dokumentacja bazy danych](/Documentation/DokumentacjaBazyDanych.md)
 - [Dokumentacja klasy XML Validator](/Documentation/DokumentacjaXMLValidator.md)
 
 ---
