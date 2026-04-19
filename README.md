@@ -2,7 +2,7 @@
 
 ## Przydatne Linki
 
-- [Dokumentacja API](#)
+- [Dokumentacja API](/Documentation/DokumentacjaAPI.md)
 - [Dokumentacja testów jednostkowych](#)
 - [Dokumentacja bazy danych](#)
 - [Dokumentacja klasy XML Validator](#)
