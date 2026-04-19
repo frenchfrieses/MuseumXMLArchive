@@ -3,9 +3,9 @@
 ## Przydatne Linki
 
 - [Dokumentacja API](/Documentation/DokumentacjaAPI.md)
-- [Dokumentacja testów jednostkowych](#)
-- [Dokumentacja bazy danych](#)
-- [Dokumentacja klasy XML Validator](#)
+- [Dokumentacja testów jednostkowych](/Documentation/DokumentacjaTestówJednostkowych.md)
+- [Dokumentacja bazy danych](/Documentation/DocumentacjaBazyDanych.md)
+- [Dokumentacja klasy XML Validator](/Documentation/DocumentacjaXMLValidator.md)
 
 ---
 
